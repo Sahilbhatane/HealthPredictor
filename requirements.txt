@@ -4,3 +4,4 @@ scikit_learn==1.4.0
 streamlit==1.25.0
 streamlit_option_menu==0.3.12
 pillow==9.5.0
+matplotlib
